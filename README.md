@@ -1,4 +1,4 @@
-# Progect Name: International-Football
+# International-Football
 --------------------------------------
 Introduction:
 This is a dataset from the D'challenger (a non-profit Organization) created towards advancement of data analysis skills. 
@@ -6,7 +6,7 @@ There is a dataset for each month to be analysed and visualized and the internat
 The International Football dataset contains information about dates games were played, participated countries/teams, home and away games, 
 home and away goals score line, host country/city, winners of shootout games and venue of the games (neutral stadia or otherwise) 
 --------------------------------------
-# Project Objective: Problem Statement
+# Problem Statement
 1. Which Team is the best team of all time?
 2. Which teams dominated different eras of football?
 3. What trends have there been in international football throughout the ages? 
